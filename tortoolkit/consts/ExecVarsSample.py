@@ -5,16 +5,16 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "acbv1233blahbkah"
-        API_ID = 696969
+        API_HASH = "dc482266e7a165e18b5905421518308c"
+        API_ID = 1979502
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = "anime.touka.workers.dev/0:/"
         
-        BOT_TOKEN = "23457345:advgyfchyrdchyfc"
+        BOT_TOKEN = "1781364386:AAFMiu0NOmZzx4ZjkItaqzDhb-7JCF2nu6g"
         BASE_URL_OF_BOT = "https://anime19.tk"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001229703790, 925128836]
+        ALD_USR = [-1001472672486]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 10
